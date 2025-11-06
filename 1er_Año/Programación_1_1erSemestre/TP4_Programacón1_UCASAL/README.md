@@ -189,28 +189,3 @@ Este trabajo práctico me permitió:
 
 ---
 
-## 🔄 Progresión del Aprendizaje
-
-| Ejercicio | Concepto Principal |
-|-----------|-------------------|
-| 1-2 | Creación básica de clases y objetos |
-| 3-4 | Trabajo con arrays y estructuras de control |
-| 5 | Métodos personalizados y lógica de negocio |
-| 6 | Entrada de datos y validaciones |
-| 7 | Herencia y extensión de clases |
-| 8-9 | Manipulación de arrays de objetos heredados |
-| 10 | Integración completa de todos los conceptos |
-
----
-
-## 📊 Comparación con TPs Anteriores
-
-| Aspecto | TP2 (Python) | TP3 (Básico Java) | TP4 (POO Java) |
-|---------|--------------|-------------------|----------------|
-| **Paradigma** | Estructurado | Estructurado | Orientado a Objetos |
-| **Complejidad** | Baja | Media | Alta |
-| **Conceptos** | Variables, ciclos | Sintaxis Java | Clases, herencia |
-| **Entrada datos** | `input()` | `BufferedReader` | `Scanner` |
-| **Estructuras** | Simples | Arrays básicos | Arrays de objetos |
-
----
