@@ -32,7 +32,7 @@ TP3_Programación1_UCASAL/
 Si solo querés descargar este trabajo práctico sin clonar todo el repositorio:
 ```bash
 # 1. Clonar el repositorio sin descargar archivos
-git clone --no-checkout https://github.com/TU_USUARIO/UCASAL_Ciencia-de-Datos.git
+git clone --no-checkout https://github.com/RamiroSGaspar/UCASAL_Ciencia-de-Datos.git
 cd UCASAL_Ciencia-de-Datos
 
 # 2. Configurar sparse-checkout
@@ -47,7 +47,7 @@ git checkout main
 
 ### Opción 2: Clonar todo el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/UCASAL_Ciencia-de-Datos.git
+git clone https://github.com/RamiroSGaspar/UCASAL_Ciencia-de-Datos.git
 cd UCASAL_Ciencia-de-Datos/1er_Año/Programación_1_1erSemestre/TP3_Programación1_UCASAL
 ```
 
