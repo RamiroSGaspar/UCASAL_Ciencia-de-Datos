@@ -70,7 +70,7 @@ python ejercicio_01.py
 ```
 
 **Requisitos:**
-- Python 3.x instalado en tu sistema
+- Python 3.12 instalado en tu sistema
 - No se requieren librerías externas
 
 ---

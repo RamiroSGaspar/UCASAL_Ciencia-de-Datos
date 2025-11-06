@@ -9,10 +9,6 @@
 
 Trabajo práctico enfocado en **Programación Orientada a Objetos (POO)** utilizando Java. Se desarrollaron ejercicios progresivos que cubren desde la creación básica de clases hasta conceptos avanzados como herencia, encapsulamiento y manejo de arrays de objetos.
 
-**Autor:** Ramiro Sebastian Gaspar  
-**Materia:** Programación 1  
-**Institución:** Universidad Católica de Salta (UCASAL)
-
 ---
 
 ## 📂 Estructura del Repositorio
