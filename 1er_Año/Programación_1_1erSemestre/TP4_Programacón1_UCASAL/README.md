@@ -3,10 +3,6 @@
 **1er Año - 1er Semestre**  
 **Alumno:** Ramiro Sebastián Gaspar
 
-[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
-[![POO](https://img.shields.io/badge/POO-Herencia-blue.svg)](https://github.com/RamiroSGaspar/UCASAL_Ciencia-de-Datos)
-[![Status](https://img.shields.io/badge/Status-Completed-success.svg)](https://github.com/RamiroSGaspar/UCASAL_Ciencia-de-Datos)
-
 ---
 
 ## 📖 Descripción
